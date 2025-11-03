@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3FB8D9-BECA-44C1-A282-466B7AA63395}|Backend.Tests\\Backend.Tests.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.tests\\convertcurrencyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB3FB8D9-BECA-44C1-A282-466B7AA63395}|Backend.Tests\\Backend.Tests.csproj|solutionrelative:backend.tests\\convertcurrencyservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB3FB8D9-BECA-44C1-A282-466B7AA63395}|Backend.Tests\\Backend.Tests.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.tests\\backend.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB3FB8D9-BECA-44C1-A282-466B7AA63395}|Backend.Tests\\Backend.Tests.csproj|solutionrelative:backend.tests\\backend.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E81B85-88C9-46FE-869D-63C99659CF84}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.infrastructure\\repositories\\conversionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E81B85-88C9-46FE-869D-63C99659CF84}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\repositories\\conversionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E81B85-88C9-46FE-869D-63C99659CF84}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E81B85-88C9-46FE-869D-63C99659CF84}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\persistence\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E81B85-88C9-46FE-869D-63C99659CF84}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.infrastructure\\external\\openexchangerateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E81B85-88C9-46FE-869D-63C99659CF84}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\external\\openexchangerateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8844A620-50FC-4522-80FB-EC3703DC9B17}|Backend.Domain\\Backend.Domain.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.domain\\entities\\conversionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8844A620-50FC-4522-80FB-EC3703DC9B17}|Backend.Domain\\Backend.Domain.csproj|solutionrelative:backend.domain\\entities\\conversionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.application\\services\\convertcurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\services\\convertcurrencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.application\\interfaces\\irateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\interfaces\\irateprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.application\\interfaces\\iconversionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\interfaces\\iconversionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.application\\dtos\\conversionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\dtos\\conversionresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.application\\dtos\\conversionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\dtos\\conversionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.application\\common\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\common\\paginatedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.api\\controllers\\conversioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\controllers\\conversioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.api\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\controllers\\ratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E81B85-88C9-46FE-869D-63C99659CF84}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.infrastructure\\migrations\\20251102094713_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86E81B85-88C9-46FE-869D-63C99659CF84}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\migrations\\20251102094713_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.api\\backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\backend.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86E81B85-88C9-46FE-869D-63C99659CF84}|Backend.Infrastructure\\Backend.Infrastructure.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.infrastructure\\backend.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86E81B85-88C9-46FE-869D-63C99659CF84}|Backend.Infrastructure\\Backend.Infrastructure.csproj|solutionrelative:backend.infrastructure\\backend.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6BBAD258-ACBD-4D84-9AF4-58B480B65DC3}|Backend.Api\\Backend.Api.csproj|solutionrelative:backend.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|d:\\officials\\demo\\currencyconvsolution\\src\\backend.application\\backend.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7F04A7FC-C2D8-4EA6-A887-CDD1F40AEDC2}|Backend.Application\\Backend.Application.csproj|solutionrelative:backend.application\\backend.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\Persistence\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:53:54.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConversionRepository.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Infrastructure\\Repositories\\ConversionRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Repositories\\ConversionRepository.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Infrastructure\\Repositories\\ConversionRepository.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\Repositories\\ConversionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:01:10.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConvertCurrencyServiceTests.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Tests\\ConvertCurrencyServiceTests.cs",
+              "RelativeDocumentMoniker": "Backend.Tests\\ConvertCurrencyServiceTests.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Tests\\ConvertCurrencyServiceTests.cs",
+              "RelativeToolTip": "Backend.Tests\\ConvertCurrencyServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:19:05.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConversionHistory.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Domain\\Entities\\ConversionHistory.cs",
+              "RelativeDocumentMoniker": "Backend.Domain\\Entities\\ConversionHistory.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Domain\\Entities\\ConversionHistory.cs",
+              "RelativeToolTip": "Backend.Domain\\Entities\\ConversionHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:41:07.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConvertCurrencyService.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\Services\\ConvertCurrencyService.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Services\\ConvertCurrencyService.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\Services\\ConvertCurrencyService.cs",
+              "RelativeToolTip": "Backend.Application\\Services\\ConvertCurrencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:50:50.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRateProvider.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\Interfaces\\IRateProvider.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Interfaces\\IRateProvider.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\Interfaces\\IRateProvider.cs",
+              "RelativeToolTip": "Backend.Application\\Interfaces\\IRateProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:46:59.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IConversionRepository.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\Interfaces\\IConversionRepository.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Interfaces\\IConversionRepository.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\Interfaces\\IConversionRepository.cs",
+              "RelativeToolTip": "Backend.Application\\Interfaces\\IConversionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:47:19.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Backend.Tests.csproj",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Tests\\Backend.Tests.csproj",
+              "RelativeDocumentMoniker": "Backend.Tests\\Backend.Tests.csproj",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Tests\\Backend.Tests.csproj",
+              "RelativeToolTip": "Backend.Tests\\Backend.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T09:18:41.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenExchangeRateProvider.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Infrastructure\\External\\OpenExchangeRateProvider.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\External\\OpenExchangeRateProvider.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Infrastructure\\External\\OpenExchangeRateProvider.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\External\\OpenExchangeRateProvider.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:03:01.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConversionResponseDto.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\DTOs\\ConversionResponseDto.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\DTOs\\ConversionResponseDto.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\DTOs\\ConversionResponseDto.cs",
+              "RelativeToolTip": "Backend.Application\\DTOs\\ConversionResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:45:24.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ConversionRequestDto.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\DTOs\\ConversionRequestDto.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\DTOs\\ConversionRequestDto.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\DTOs\\ConversionRequestDto.cs",
+              "RelativeToolTip": "Backend.Application\\DTOs\\ConversionRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:44:07.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PaginatedResult.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\Common\\PaginatedResult.cs",
+              "RelativeDocumentMoniker": "Backend.Application\\Common\\PaginatedResult.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\Common\\PaginatedResult.cs",
+              "RelativeToolTip": "Backend.Application\\Common\\PaginatedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T08:49:04.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConversionController.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\Controllers\\ConversionController.cs",
+              "RelativeDocumentMoniker": "Backend.Api\\Controllers\\ConversionController.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\Controllers\\ConversionController.cs",
+              "RelativeToolTip": "Backend.Api\\Controllers\\ConversionController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:17:10.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RatesController.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\Controllers\\RatesController.cs",
+              "RelativeDocumentMoniker": "Backend.Api\\Controllers\\RatesController.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\Controllers\\RatesController.cs",
+              "RelativeToolTip": "Backend.Api\\Controllers\\RatesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:18:18.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend.Api\\appsettings.json",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\appsettings.json",
+              "RelativeToolTip": "Backend.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T09:29:41.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Backend.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\appsettings.Development.json",
+              "RelativeToolTip": "Backend.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T09:29:44.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Backend.Api\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Backend.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-02T09:50:06.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251102094713_Initial.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Infrastructure\\Migrations\\20251102094713_Initial.cs",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Migrations\\20251102094713_Initial.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Infrastructure\\Migrations\\20251102094713_Initial.cs",
+              "RelativeToolTip": "Backend.Infrastructure\\Migrations\\20251102094713_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:47:14.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Backend.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Infrastructure\\Backend.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Backend.Infrastructure\\Backend.Infrastructure.csproj",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Infrastructure\\Backend.Infrastructure.csproj",
+              "RelativeToolTip": "Backend.Infrastructure\\Backend.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T08:53:16.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Backend.Api.csproj",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\Backend.Api.csproj",
+              "RelativeDocumentMoniker": "Backend.Api\\Backend.Api.csproj",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\Backend.Api.csproj",
+              "RelativeToolTip": "Backend.Api\\Backend.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T09:09:16.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Backend.Api\\Program.cs",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Api\\Program.cs",
+              "RelativeToolTip": "Backend.Api\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T09:08:36.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Backend.Application.csproj",
+              "DocumentMoniker": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\Backend.Application.csproj",
+              "RelativeDocumentMoniker": "Backend.Application\\Backend.Application.csproj",
+              "ToolTip": "D:\\Officials\\Demo\\CurrencyConvSolution\\src\\Backend.Application\\Backend.Application.csproj",
+              "RelativeToolTip": "Backend.Application\\Backend.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-02T08:42:20.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
